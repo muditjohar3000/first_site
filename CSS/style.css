@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(211, 216, 178);
+    color: rgb(16, 74, 125);
+    line-height: 16pt;
+}
+ h1{
+    font-size: 38pt;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-self: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+ }
+
+ h2{
+    font-size: 24pt;
+    font-family: cursive;
+    color:rgb(25, 96, 96);
+    
+ }
+
+ h3{
+    font-size: 20pt;
+    font-family:fantasy;
+    color:rgb(65, 99, 172);
+    margin-top: 20px;
+ }
+
+ img{
+    border: 5px solid;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+    height: 250px;
+    width: 10%vw;
+ }
+
+ li{
+   display: inline-block;
+   margin-left: 20%;
+   color: #3566ff;
+   height: 10px;
+ }
+
+ nav{
+   border: 2px solid black;
+ }
+
+ a{
+   background-color: aqua;
+   padding: 5px;
+
+ }
+
+ nav li{
+   text-decoration: underline solid blue;
+ }
+
+ .gallery{
+   border: 5px solid;
+   padding: 5px;
+   margin: 20px;
+   height: 150px;
+   width: 15%vw;
+ }
